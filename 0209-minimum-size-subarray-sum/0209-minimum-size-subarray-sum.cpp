@@ -3,19 +3,22 @@ public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int minCnt = INT_MAX;
         int sum = 0;
-        int left = 0;
+        int low = 0;
+        int high = 0;
         int cnt = 0;
-
-        for(int right = 0; right < nums.size(); right++){
-            sum += nums[right];
+        
+        while(high < nums.size()){
+            sum += nums[high];
 
             while(sum >= target){
-                cnt = right - left + 1;
+                cnt = high - low + 1;
                 minCnt = min(minCnt, cnt);
-                sum -= nums[left];
-                left++;
+                sum -= nums[low];
+                low++;
             }
+            high++;
         }
-        return (minCnt == INT_MAX) ? 0: minCnt;
+        return minCnt == INT_MAX ? 0 : minCnt;
     }
+    
 };
