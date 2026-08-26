@@ -6,7 +6,6 @@ public:
         vector<int> suffix(n,0);
 
         for(int i = 1; i < nums.size(); i++){
-            prefix[0] = 0;
             prefix[i] = prefix[i - 1] + nums[i - 1];
         }
 
