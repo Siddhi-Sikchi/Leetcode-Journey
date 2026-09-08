@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0930-binary-subarrays-with-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
