@@ -1,12 +1,11 @@
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr, int k, int threshold) {
-        int windowSum = 0;
+        int sum = 0;
         for(int i = 0; i < k; i++){
-            windowSum += arr[i];
+            sum += arr[i];
         }
 
-        int sum = windowSum;
         int high = k;
         int low = 0;
         int cnt = 0;
