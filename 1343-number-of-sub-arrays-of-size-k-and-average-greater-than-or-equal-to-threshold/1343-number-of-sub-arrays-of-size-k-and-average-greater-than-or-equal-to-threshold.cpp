@@ -19,7 +19,7 @@ public:
             sum += arr[high];
             sum -= arr[low];
 
-            double avg = sum / k;
+            avg = sum / k;
 
             if(avg >= threshold){
                 cnt++;
