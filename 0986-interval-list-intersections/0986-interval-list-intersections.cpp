@@ -13,12 +13,6 @@ public:
             int st2 = sec[j][0];
             int end2 = sec[j][1];
 
-            if(fir.size() == 0){
-                return fir;
-            }else if(sec.size() == 0){
-                return sec;
-            }
-
             if(st1 <= st2){
                 if(end1 >= st2){
                     int st = max(st1, st2);
