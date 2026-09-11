@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
