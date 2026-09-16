@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0918-maximum-sum-circular-subarray) |
@@ -183,9 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
