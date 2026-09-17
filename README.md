@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -203,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
