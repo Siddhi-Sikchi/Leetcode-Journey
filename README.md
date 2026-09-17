@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
