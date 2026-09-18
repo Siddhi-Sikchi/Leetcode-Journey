@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0904-fruit-into-baskets) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
