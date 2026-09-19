@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
