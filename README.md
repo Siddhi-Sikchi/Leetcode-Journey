@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0183-customers-who-never-order) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
