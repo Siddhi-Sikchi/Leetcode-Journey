@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0724-find-pivot-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Timsort
 |  |
@@ -266,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -289,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
