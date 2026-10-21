@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0709-to-lower-case) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
