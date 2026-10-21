@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
