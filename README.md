@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
