@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1732-find-the-highest-altitude](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
