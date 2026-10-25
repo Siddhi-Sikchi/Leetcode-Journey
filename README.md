@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 ## Pigeonhole Principle
