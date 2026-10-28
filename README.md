@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2315-count-asterisks](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
