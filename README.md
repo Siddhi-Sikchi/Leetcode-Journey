@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2000-reverse-prefix-of-word) |
@@ -282,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
