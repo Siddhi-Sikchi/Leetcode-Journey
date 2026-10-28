@@ -13,7 +13,6 @@ public:
                 st.pop();
                 cnt--;
             }
-            else{ continue; }
             ans = max(ans, cnt);
         }
         return ans;
