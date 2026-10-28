@@ -10,7 +10,7 @@ public:
                 cnt++;
             }
             else if(c == ')'){
-                st.pop();
+                // st.pop();
                 cnt--;
             }
             ans = max(ans, cnt);
