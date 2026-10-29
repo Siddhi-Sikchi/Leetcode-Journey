@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
 |  |
 | ------- |
