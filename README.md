@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3110-score-of-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3110-score-of-a-string) |
 ## Linked List
 |  |
 | ------- |
