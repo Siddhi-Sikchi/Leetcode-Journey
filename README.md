@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
 |  |
 | ------- |
