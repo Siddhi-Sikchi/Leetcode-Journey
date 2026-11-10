@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2540-minimum-common-value](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
+| [2540-minimum-common-value](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
 |  |
