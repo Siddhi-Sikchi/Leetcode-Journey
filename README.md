@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0986-interval-list-intersections) |
+| [1051-height-checker](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -395,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
