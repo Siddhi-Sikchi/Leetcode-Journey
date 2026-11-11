@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Timsort
 |  |
