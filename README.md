@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0881-boats-to-save-people) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 ## Pigeonhole Principle
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -405,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
