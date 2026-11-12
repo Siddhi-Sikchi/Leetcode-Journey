@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/2235-add-two-integers) |
