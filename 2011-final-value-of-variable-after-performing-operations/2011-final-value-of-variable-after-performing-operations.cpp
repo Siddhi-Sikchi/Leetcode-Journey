@@ -3,13 +3,10 @@ public:
     int finalValueAfterOperations(vector<string>& op) {
         int ans = 0;
         for(string c : op){
-            if(c == "--X"){
+            if(c == "--X" || c == "X--"){
                 --ans;
-            }else if(c == "X--"){
-                ans--;
-            }else if(c == "++X"){
-                ++ans;
-            }else if(c == "X++"){
+            }
+            else{
                 ans++;
             }
         }
