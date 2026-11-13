@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Siddhi-Sikchi/Leetcode-Journey/tree/master/0844-backspace-string-compare) |
